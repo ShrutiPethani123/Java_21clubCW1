@@ -62,6 +62,5 @@ public class Polyumorphism2 {
         // System.out.println(o2.y);
         System.out.println(o2.z);
 
-
     }
 }
